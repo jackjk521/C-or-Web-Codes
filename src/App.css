@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+/*CUSTOM css*/
+
+.Col {
+  margin-bottom: 15px;
+}
+
+.App, body {
+  background-color:teal;
+  margin-top: 25px;
+}
+
+.album {
+  text-align: center;
+  padding:15px;
+  background-color:teal;
+  background-color:yellowgreen;
+  border-radius: 5px;
+}
+
+.cardBody{
+  align-items: center;
+  width: "18rem"
+}
